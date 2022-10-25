@@ -19,6 +19,13 @@
     </li>
     <li>
         Запустить проект
-        <div><code>npm start</code></div>
+        <ul>
+            <li>При установке через yarn
+            <div><code>yarn start</code></div>
+            </li>
+            <li>При установке через npm
+            <div><code>npm run start</code></div>
+            </li>
+        </ul>
     </li>
 </ol>
