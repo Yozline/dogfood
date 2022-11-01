@@ -29,3 +29,12 @@
         </ul>
     </li>
 </ol>
+
+<!-- Невозможно загрузить файл C:\Users\Admin\AppData\Roaming\npm\yarn.ps1, так как выполнение сцена
+риев отключено в этой системе. Для получения дополнительных сведений см. about_Execution_Policies по а 
+дресу https:/go.microsoft.com/fwlink/?LinkID=135170 -->
+
+
+<!-- sudo npm i yarn -g
+
+cmd -> npm i yarn -g -->
